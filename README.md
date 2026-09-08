@@ -1,2 +1,0 @@
-# OOP-assignment-
-Sem-I
